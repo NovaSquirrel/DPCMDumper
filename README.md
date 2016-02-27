@@ -1,0 +1,1 @@
+This is an automatic DPCM sample dumper for the FCEUX NES emulator that watches for DPCM sample writes and rips them from the ROM.
